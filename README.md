@@ -6,6 +6,6 @@
 (Ruang Praktikum)  (Ruang Praktikum)  (Ruang Instruktur)  (Ruang Alat/Bahan dan Toilet)
      │            │                  │               │
 ┌────┴────┐  ┌────┴───────┐      ┌────┴────┐    ┌────┴──────┐
-│    │    │  │     │      │      │    │     │    │     │     │
+│    │    │  │     │      │      │    │    │    |     │     │
 Lampu Lampu Lampu Lampu Lampu Lampu Lampu Lampu
 1    2    3  4     5      6      7    8     9    10   11    12
